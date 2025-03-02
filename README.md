@@ -17,7 +17,7 @@ Proyek ini adalah permainan berbasis web yang memberikan pengalaman seru dalam m
 4. Bagikan hasil gacha ke teman-teman! 🎉
 
 ## 📸 Preview
-![Preview Gacha](https://raw.githubusercontent.com/Bhpsya/gacha-hadiah-idul-fitri/main/screenshot.png)  
+![Preview Gacha](https://raw.githubusercontent.com/Bhosya/gacha-hadiah-idul-fitri/main/screenshot.png)  
 *Gambar di atas hanya ilustrasi, coba langsung di websitenya!*
 
 ## 🛠️ Teknologi yang Digunakan
